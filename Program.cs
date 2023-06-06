@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-int val = 34786;
+int val = 12345;
 
 int v1 = val / 10000;
 Console.WriteLine(v1);
